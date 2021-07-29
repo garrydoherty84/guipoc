@@ -11,3 +11,56 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.pagination {
+    padding-top: 0.5rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    padding-bottom: 1.5rem;
+}
+
+.heading {
+    color: purple;
+}
+
+.toggle-buttons {
+    margin: 1rem;
+}
+
+.bg-col {
+    background-color: lightgrey;
+}
+
+.node-status-outer {
+    padding: 1rem;
+}
+
+.node-status-select {
+    width: 150px;
+    margin-left: 20px
+}
+
+.no-project {
+    background-color: lightgrey;
+    height: 125px;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.table-outer {
+    max-height: 400px;
+    overflow-x: auto;
+}
+
+.experiment-count {
+    padding-left: 30px;
+}
+
+.curr-page {
+    width: 50px;
+}
+
+.text-filter {
+    width: 70px;
+}
+
